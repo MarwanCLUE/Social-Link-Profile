@@ -4,10 +4,12 @@
 }
 
 body{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    display:flex;
     background-image: url(A_black_image.jpg.webp);
     color: white;
-    padding-left: 560px;
-    padding-top: 90px;
     font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
@@ -16,6 +18,8 @@ body{
     "slnt" 0;
 
 }
+
+
 .rectangle{
     align-items: center;
     text-align: center;
